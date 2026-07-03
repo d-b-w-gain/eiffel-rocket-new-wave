@@ -1,0 +1,18 @@
+{
+  "asset_name": "ROCKET",
+  "source_uid": "75d8f8cc8c2b4598b694edfe67e073e8",
+  "source_url": "https://sketchfab.com/3d-models/rocket-75d8f8cc8c2b4598b694edfe67e073e8",
+  "author": "Ret.ouchs",
+  "author_profile": "https://sketchfab.com/ret.ouchs",
+  "license": "Creative Commons Attribution 4.0 International",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "attribution_required": true,
+  "commercial_use_allowed": true,
+  "expected_import_file": "rocket.glb",
+  "expected_import_path": "assets/rocket/rocket.glb",
+  "source_blend_path": "assets/rocket/blender/source/Sketchfab_2022_03_01_00_10_13.blend",
+  "gltf_scene_path": "assets/rocket/gltf/scene.gltf",
+  "fallback_thumbnail": "assets/rocket/sketchfab_thumbnail.jpg",
+  "download_status": "downloaded",
+  "metadata_checked": "2026-07-02"
+}
